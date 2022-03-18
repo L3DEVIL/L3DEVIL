@@ -1,5 +1,3 @@
-[![MasterHead](https://github.com/L3DEVIL/L3DEVIL/blob/main/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67.png)](https://github.com/L3DEVIL/L3DEVIL)
-
 <h1 align="center">Hi 👋, I'm L3DEVIL</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
